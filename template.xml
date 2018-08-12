@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <line-feed />
+    <align mode="center">
+        <bold>
+            <text-line size="1:0">{{name}}</text-line>
+        </bold>
+        <line-feed />
+        <small>
+            <text-line size="1:0">---------------------</text-line>
+            <text-line size="1:0">523-670-643</text-line>
+            <text-line size="1:0">---------------------</text-line>
+        </small>
+        <line-feed />
+        <text-line>Garagem da Julho</text-line>
+        <text-line>Av. Julho de Castilhos 54</text-line>
+        <text-line>CNPJ: 09.550.403/001-89</text-line>
+        <line-feed/>
+        <bold>
+            <text-line size="1:0">TICKET</text-line>
+            <text-line size="1:0">DE ENTRADA</text-line>
+        </bold>
+    </align>
+    <line-feed/>
+    <align mode="left">
+        <bold>
+            <text-line size="0.5:0">DATA HORA</text-line>
+            <text-line>{{moment date format="DD/MM/YYYY HH:mm:ss"}}</text-line>
+        </bold>
+    </align>
+    <line-feed />
+    <align mode="left">
+        <bold>
+            <text-line size="0.5:0">CUPOM</text-line>
+            <text-line>1280</text-line>
+        </bold>
+    </align>
+    <line-feed />
+    <align mode="left">
+        <bold>
+            <text-line size="0.5:0">Placa</text-line>
+            <text-line>8212</text-line>
+        </bold>
+    </align>
+    <align mode ="center">
+        <text-line> Tabela de preços  </text-line>
+    </align>
+    <line-feed/>
+    <align mode ="center">
+        <text-line>Preço Inicial:    30 </text-line>
+        <text-line>Apos 30 min:      30 </text-line>
+        <text-line>Maximo:           30</text-line>
+        <text-line>Antecipado:       30</text-line>
+    </align>
+    <line-feed/>
+    <line-feed/>
+</document>
